@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Stake Casino Crash Predictor](https://github.com/JDMEXX/stake-casino-crash-predictor/blob/main/Stake%20Casino%20Crash%20Predictor.png)
+![Stake Casino Crash Predictor](https://github.com/JDMEXX/stake-casino-crash-predictor/blob/main/Stake%20Crash%20Bot.png)
 
 </div>
 
