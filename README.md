@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Stake Games Bot](https://github.com/JDMEXX/stake-games-bot/blob/main/Stake%20Mines%20Bot%20Interface.png)
+![Stake Casino Crash Predictor](https://github.com/JDMEXX/stake-casino-crash-predictor/blob/main/Stake%20Casino%20Crash%20Predictor.png)
 
 </div>
 
